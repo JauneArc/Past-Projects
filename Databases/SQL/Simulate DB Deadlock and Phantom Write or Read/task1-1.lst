@@ -1,0 +1,44 @@
+SQL> @C:\Users\ljc878\Downloads\task1-1.sql
+SQL> SET TRANSACTION ISOLATION LEVEL READ COMMITTED;
+
+Transaction set.
+
+SQL>
+SQL> UPDATE POSITION
+  2  SET Salary = Salary * 0.10
+  3  WHERE EXISTS (SELECT ename
+  4                            FROM EMPLOYER
+  5                            WHERE Employer.ename = Position.ename AND Employe
+r.state = 'New South Wales' );
+
+9 rows updated.
+
+SQL>
+SQL> DECLARE
+  2  SYSTS VARCHAR(60);
+  3
+  4  BEGIN
+  5   SELECT TO_CHAR(SYSTIMESTAMP)
+  6   INTO SYSTS
+  7   FROM DUAL;
+  8
+  9  DBMS_OUTPUT.PUT_LINE(SYSTS);
+ 10
+ 11  DBMS_LOCK.SLEEP(10);         /* Sleep for 10 seconds
+                     */
+ 12
+ 13  SELECT TO_CHAR(SYSTIMESTAMP)
+ 14  INTO SYSTS
+ 15  FROM DUAL;
+ 16
+ 17  DBMS_OUTPUT.PUT_LINE(SYSTS);
+ 18  END;
+ 19  /
+17-MAY-16 01.29.07.813000 PM +10:00
+17-MAY-16 01.29.17.829000 PM +10:00
+
+PL/SQL procedure successfully completed.
+
+SQL> COMMIT;
+
+Commit complete.

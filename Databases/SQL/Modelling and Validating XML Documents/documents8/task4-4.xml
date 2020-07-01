@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="task4-4.xsd">
+  
+	<item>
+    
+		<name>yellow bolt</name>
+    
+		<price>24</price>
+  
+	</item>
+  
+	<item>
+    
+		<name>green bolt</name>
+    
+		<price>25</price>
+  
+	</item>
+  
+	<item>
+    
+		<name>white nut</name>
+    
+		<price>five</price>
+  
+	</item>
+  
+	<item>
+    
+		<name>green nut</name>
+    
+	<price>eleven</price>
+  
+	</item>
+
+</items>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Campus>
+	<cname> Wollongong </cname>
+  	<city> Wollongong </city>
+	<street> Northfields Avenue </street>
+		<Building> 
+			<Bldg-Num> 1 </Bldg-Num>
+			<Bldg-Name> Clooney Bld </Bldg-Name>
+				<Rooms>
+					<Room-Num> 1 </Room-Num>
+					<Type> Lecture Hall </Type>
+					<Area> 18 sq_meters </Area>
+				</Rooms>
+				<Rooms>
+					<Room-Num> 2 </Room-Num>
+					<Type> Computer Lab </Type>
+					<Area> 30 sq_meters </Area>
+				</Rooms>
+		</Building>
+		<Building> 
+			<Bldg-Num> 2 </Bldg-Num>
+			<Bldg-Name> George Bld </Bldg-Name>
+				<Rooms>
+					<Room-Num> 3 </Room-Num>
+					<Type> Gym </Type>
+					<Area> 28 sq_meters </Area>
+				</Rooms>
+				<Rooms>
+					<Room-Num> 4 </Room-Num>
+					<Type> General </Type>
+					<Area> 25 sq_meters </Area>
+				</Rooms>
+		</Building>
+</Campus>

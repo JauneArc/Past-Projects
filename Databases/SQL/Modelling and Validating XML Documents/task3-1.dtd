@@ -1,0 +1,6 @@
+<!ELEMENT employee (enum,fname,lname,progskills)>
+<!ELEMENT progskills (planguage*)>
+<!ELEMENT enum (#PCDATA)>
+<!ELEMENT fname (#PCDATA)>
+<!ELEMENT lname (#PCDATA)>
+<!ELEMENT planguage (#PCDATA)>

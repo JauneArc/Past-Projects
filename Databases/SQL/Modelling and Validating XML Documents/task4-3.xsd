@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="contacts" type="ContactsType"/>
+  <xsd:complexType name="ContactsType">
+    <xsd:sequence>
+      <xsd:element name="department" maxOccurs="unbounded" type="xsd:string"/>
+      <xsd:element name="name" type="xsd:string"/>
+      <xsd:element name="email" type="xsd:string"/>
+      <xsd:element name="phone" type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+</xsd:schema>

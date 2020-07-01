@@ -1,0 +1,15 @@
+drop table MESSAGES cascade constraints;
+drop table SKILL cascade constraints;
+drop table APPLICANT cascade constraints;
+drop table EMPLOYER cascade constraints;
+drop table EMPLBY cascade constraints;
+drop table POSITION cascade constraints;
+drop table SPOSSESSED cascade constraints;
+drop table SNEEDED cascade constraints;
+drop table APPLIES cascade constraints;
+drop table LPOSITION cascade constraints;
+drop table ACADEMIC cascade constraints;
+drop table SUBJECT cascade constraints;
+drop table RUNNINGSUBJECT cascade constraints;
+drop table TEACHES cascade constraints;
+drop table CSCI235 cascade constraints;

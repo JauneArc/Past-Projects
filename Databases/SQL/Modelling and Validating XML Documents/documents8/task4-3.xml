@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="task4-3.xsd">
+  
+	<department>Sales</department>
+  
+	<department>Employee Relation</department>
+  
+	<name>Fred Jones</name>
+  
+	<email>fred@comp.com</email>
+  
+	<phone>123456</phone>
+
+</contacts>

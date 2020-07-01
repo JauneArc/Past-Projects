@@ -1,0 +1,13 @@
+SQL> SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+
+Transaction set.
+
+SQL> EXECUTE Extras;
+BEGIN Extras; END;
+
+*
+ERROR at line 1:
+ORA-08177: can't serialize access for this transaction
+ORA-06512: at "LJC878.EXTRAS", line 7
+ORA-06512: at line 1
+

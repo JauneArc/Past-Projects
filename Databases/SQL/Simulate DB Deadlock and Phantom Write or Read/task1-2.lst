@@ -1,0 +1,15 @@
+SQL> @C:\Users\ljc878\Downloads\task1-2.sql
+SQL> SET TRANSACTION ISOLATION LEVEL READ COMMITTED;
+
+Transaction set.
+
+SQL>
+SQL> UPDATE POSITION
+  2  SET Salary = Salary - Salary * 0.50
+  3  WHERE ename = 'University of Wollongong';
+
+5 rows updated.
+  4  COMMIT;
+Commit complete.
+
+SQL>

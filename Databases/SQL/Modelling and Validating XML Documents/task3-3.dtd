@@ -1,0 +1,12 @@
+<!ELEMENT department (name,chairman,budget,buildings,has-employees)>
+<!ELEMENT buildings (building*)>
+<!ELEMENT has-employees (employee*)>
+<!ELEMENT employee (enum,first-name,last-name,salary)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT chairman (#PCDATA)>
+<!ELEMENT budget (#PCDATA)>
+<!ELEMENT building (#PCDATA)>
+<!ELEMENT enum (#PCDATA)>
+<!ELEMENT first-name (#PCDATA)>
+<!ELEMENT last-name (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>

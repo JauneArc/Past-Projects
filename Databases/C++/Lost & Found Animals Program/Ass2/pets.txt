@@ -1,0 +1,360 @@
+lost
+cat
+female
+persian
+0 3
+black-white
+mangerton
+42614297
+found
+cat
+male
+siamese
+5 6
+tan
+balgownie
+42898942
+lost
+dog
+female
+pomeranian
+5 4
+black
+dapto
+42354461
+found
+cat
+male
+tiger
+0 6
+black-white
+port kembla
+42342706
+lost
+dog
+female
+cattle dog
+5 1
+white
+dapto
+42940424
+lost
+cat
+male
+persian
+7 2
+white
+dapto
+42872211
+found
+dog
+female
+pomeranian
+1 0
+black-white
+dapto
+42867125
+found
+cat
+female
+mixture
+5 5
+white
+mangerton
+42061532
+found
+cat
+unknown
+mixture
+5 6
+black-white
+port kembla
+42968831
+found
+dog
+unknown
+pomeranian
+5 2
+black-tan
+port kembla
+42373514
+found
+cat
+male
+tiger
+4 8
+brown
+coniston
+42549766
+lost
+dog
+male
+poodle
+0 6
+black-white
+dapto
+42047576
+found
+dog
+unknown
+bull terrier
+7 3
+brown
+port kembla
+42908326
+found
+cat
+unknown
+siamese
+7 6
+black-white
+mangerton
+42997336
+lost
+cat
+unknown
+mixture
+7 3
+black
+corrimal
+42129613
+found
+cat
+male
+persian
+7 4
+tan
+mangerton
+42850686
+found
+dog
+female
+pomeranian
+7 8
+orange
+dapto
+42313607
+lost
+dog
+male
+poodle
+1 0
+black
+port kembla
+42421424
+lost
+cat
+female
+tabbie
+2 1
+tan
+corrimal
+42005603
+lost
+cat
+male
+tabbie
+1 3
+brown
+corrimal
+42798208
+found
+dog
+female
+cattle dog
+4 8
+brown
+port kembla
+42092536
+lost
+dog
+unknown
+border collie
+0 6
+tan
+dapto
+42923604
+lost
+dog
+male
+foxie
+3 4
+black
+port kembla
+42439968
+lost
+cat
+male
+siamese
+3 5
+tan
+balgownie
+42057501
+lost
+dog
+unknown
+border collie
+2 7
+white
+port kembla
+42897258
+found
+cat
+female
+tiger
+5 7
+white
+port kembla
+42760669
+lost
+dog
+female
+border collie
+4 0
+tan
+coniston
+42010961
+found
+cat
+male
+mixture
+3 0
+black
+mangerton
+42831723
+found
+cat
+unknown
+mixture
+2 3
+tan
+corrimal
+42368385
+lost
+cat
+female
+siamese
+2 0
+tan
+balgownie
+42097759
+lost
+cat
+unknown
+mixture
+4 8
+black-white
+corrimal
+42526735
+lost
+cat
+male
+bermese
+7 5
+tan
+balgownie
+42271804
+lost
+dog
+male
+pomeranian
+4 4
+black-white
+mangerton
+42572842
+found
+cat
+male
+persian
+3 6
+tan
+mangerton
+42899203
+found
+dog
+female
+bull terrier
+3 6
+white
+corrimal
+42031389
+found
+cat
+unknown
+siamese
+4 2
+black
+port kembla
+42629386
+found
+cat
+unknown
+tiger
+2 8
+brown
+balgownie
+42854362
+found
+cat
+female
+tiger
+1 5
+brown
+balgownie
+42403025
+lost
+dog
+male
+bull terrier
+3 5
+white
+corrimal
+42260104
+found
+cat
+male
+mixture
+2 8
+black-white
+mangerton
+42228799
+lost
+cat
+male
+tabbie
+7 8
+grey
+balgownie
+42219290
+found
+dog
+male
+pomeranian
+4 6
+tan
+corrimal
+42562686
+found
+dog
+male
+border collie
+3 8
+black-white
+coniston
+42538463
+lost
+dog
+female
+pomeranian
+5 2
+black
+dapto
+42279644
+lost
+cat
+male
+tabbie
+2 4
+black
+corrimal
+42225049
