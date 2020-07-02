@@ -1,0 +1,16 @@
+﻿Build started 19/10/2017 5:34:23 PM.
+     1>Project "C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Tutorial\Tutorial.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\AMD APP SDK\3.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt /wd4996 reduction_complete.c
+         reduction_complete.c
+     1>c:\users\liam\desktop\uni\2017\spring\csci376\labs\tutorial10\2. parallel reduction (complete)\tutorial\reduction_complete.c(227): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'cl_ulong'
+         c:\users\liam\desktop\uni\2017\spring\csci376\labs\tutorial10\2. parallel reduction (complete)\tutorial\reduction_complete.c(227): note: consider using '%llu' in the format string
+         c:\users\liam\desktop\uni\2017\spring\csci376\labs\tutorial10\2. parallel reduction (complete)\tutorial\reduction_complete.c(227): note: consider using '%I64u' in the format string
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Debug\Tutorial.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\AMD APP SDK\3.0\lib\x86" OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Debug\Tutorial.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Debug\Tutorial.lib" /MACHINE:X86 Debug\reduction_complete.obj
+         Tutorial.vcxproj -> C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Debug\Tutorial.exe
+     1>Done Building Project "C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Labs\Tutorial10\2. Parallel reduction (complete)\Tutorial\Tutorial.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46

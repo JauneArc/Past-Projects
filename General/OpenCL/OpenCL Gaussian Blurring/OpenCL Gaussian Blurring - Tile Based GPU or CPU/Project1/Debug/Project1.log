@@ -1,0 +1,14 @@
+﻿Build started 20/10/2017 2:28:04 PM.
+     1>Project "C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\AMD APP SDK\3.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt /wd4996 main.c
+         main.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Debug\Project1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\AMD APP SDK\3.0\lib\x86" OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Debug\Project1.lib" /MACHINE:X86 Debug\bmpfuncs.obj
+         Debug\main.obj
+         Project1.vcxproj -> C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Liam\Desktop\Uni\2017\Spring\CSCI376\Assignments\Assignment3\Pt1\Part1-A&B\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
